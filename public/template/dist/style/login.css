@@ -1,0 +1,55 @@
+body {
+  background: url(../static/images/200.jpg); }
+
+.box {
+  width: 384px;
+  height: 342px;
+  margin: 74px 881px;
+  border: 1px solid #C0AE8A;
+  background: darkred; }
+  .box .tbox {
+    width: 304px;
+    height: 69px;
+    margin: 29px 41px 0 70px; }
+    .box .tbox span:first-child {
+      font: 18px/24px "";
+      margin: 0 46px 0 15px; }
+    .box .tbox a {
+      font: 18px/24px "";
+      margin: 0 15px 0 0; }
+    .box .tbox p {
+      font: 12px/45px "";
+      width: 97px;
+      height: 45px;
+      margin-left: 133px; }
+  .box .cbox {
+    width: 304px;
+    height: 242px;
+    margin-left: 38px; }
+    .box .cbox .txt1 {
+      width: 302px;
+      height: 30px;
+      margin-bottom: 12px; }
+    .box .cbox .txt2 {
+      width: 302px;
+      height: 30px;
+      margin-bottom: 12px; }
+    .box .cbox form {
+      width: 302px;
+      height: 30px; }
+      .box .cbox form .txt3 {
+        width: 211px;
+        float: left;
+        border-right: none;
+        height: 30px; }
+      .box .cbox form .btn {
+        width: 83px;
+        float: right;
+        background: #C0AE8A;
+        border: none;
+        margin-bottom: 36px;
+        height: 36px; }
+    .box .cbox .sub {
+      width: 308px;
+      background: #C0AE8A;
+      height: 44px; }
